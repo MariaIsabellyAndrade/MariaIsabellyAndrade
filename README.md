@@ -6,8 +6,9 @@
   <h3 align="center">Desenvolvedora em formação | Estudante de Sistemas de Informação na Unoeste</h3>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+formação;Estudante+de+SI+na+Unoeste;Apaixonada+por+tecnologia+e+aprendizado+contínuo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&lines=Desenvolvedora+Full+Stack" />
   </p>
+  
 </div>
 
 <p align="center">
@@ -17,6 +18,14 @@
 <p align="center">
    Em breve: meu portfólio aqui 😉
 </p>
+
+<div align="center">
+  <a href="https://github.com/MariaIsabellyAndrade" target="_blank">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaIsabellyAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabellyAndrade&layout=compact&langs_count=10&theme=dracula" />
+  </a>
+</div>
+
 
 ---
 
@@ -53,14 +62,15 @@
 
 <div align="center">
   <a href="mailto:andradeisabellypessoal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-andradeisabellypessoal@gmail.com-3498db?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Acessar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/maria-isabelly-andrade" target="_blank">
+    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_andraddd/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
   </a>
 </div>
+
 
 
