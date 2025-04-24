@@ -49,7 +49,7 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/maria-isabelly-andrade" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="75" alt="LinkedIn" />
+    <img src="https://www.linkedin.com/in/maria-isabelly-da-s-andrade-76150124a/" width="75" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_andraddd/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="75" alt="Instagram" />
