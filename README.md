@@ -15,9 +15,6 @@
   Olá 👋 Me chamo Isabelly, sou uma desenvolvedora apaixonada por tecnologia, aprendizado constante e desafios. Atualmente estou cursando Sistemas de Informação na <strong>Unoeste</strong> e me formei anteriormente em Desenvolvimento de Sistemas. Busco oportunidades na área de desenvolvimento, especialmente com foco em <strong>Java</strong> e <strong>banco de dados</strong>.
 </p>
 
-<p align="center">
-   Em breve: meu portfólio aqui 😉
-</p>
 
 <div align="center">
   <a href="https://github.com/MariaIsabellyAndrade" target="_blank">
@@ -40,7 +37,7 @@
 </div>
 </div>
 
-[Snake animation](https://github.com/MariaIsabellyAndrade/MariaIsabellyAndrade/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ---
