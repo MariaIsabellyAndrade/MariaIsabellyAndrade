@@ -40,17 +40,10 @@
 </div>
 </div>
 
+[Snake animation](https://github.com/MariaIsabellyAndrade/MariaIsabellyAndrade/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
-
-
-
-
-
-
-
-
-
 
 <h2 align="center">📫 Contato</h2>
 
@@ -59,10 +52,10 @@
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/maria-isabelly-andrade" target="_blank">
-    <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" width="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="75" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_andraddd/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="75" alt="Instagram" />
   </a>
 </div>
 
