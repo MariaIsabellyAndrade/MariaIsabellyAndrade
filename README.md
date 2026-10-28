@@ -71,18 +71,6 @@ Atualmente, estou aprimorando minhas habilidades técnicas e buscando oportunida
 - **Metodologias ágeis:** conhecimentos em Scrum e Kanban.
 - **Outras ferramentas:** Power BI e ferramentas de desenvolvimento.
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MariaIsabellyAndrade&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIsabellyAndrade&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
-
-
-
 ## 📚 Formação e aprendizado
 
 - **Bacharelado em Sistemas de Informação** — Unoeste.
