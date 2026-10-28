@@ -71,41 +71,6 @@ Atualmente, estou aprimorando minhas habilidades técnicas e buscando oportunida
 - **Metodologias ágeis:** conhecimentos em Scrum e Kanban.
 - **Outras ferramentas:** Power BI e ferramentas de desenvolvimento.
 
----
-
-## 🚀 Projetos em destaque
-
-### 💈 Brutus System — Sistema para barbearia
-
-Aplicação Full Stack desenvolvida para organizar e otimizar a gestão de uma barbearia, incluindo agendamentos e funcionalidades específicas para clientes, barbeiros e administradores.
-
-**Principais funcionalidades:**
-- Gerenciamento de usuários e serviços.
-- Agendamento e gerenciamento de horários.
-- Autenticação e controle de acesso por perfil.
-- Relatórios gerenciais e financeiros.
-- Integração com banco de dados e pagamentos via PIX.
-
-**Tecnologias:** React, Node.js, Express, MongoDB e JavaScript.
-
-🔗 [Acessar meus repositórios](https://github.com/MariaIsabellyAndrade)
-
-### 🧬 LBMM / MicrobioBase — Plataforma de bioinformática
-
-Participação no desenvolvimento de uma plataforma web vinculada a um projeto de pesquisa, com foco na organização e estruturação de dados biológicos.
-
-**Atividades e objetivos:**
-- Modelagem e estruturação de banco de dados.
-- Desenvolvimento de uma API para acesso aos dados.
-- Organização de informações relacionadas a organismos.
-- Estruturação de dados para integração com a plataforma.
-
-**Tecnologias:** Python, FastAPI, SQLAlchemy e MySQL.
-
-🔗 [Explorar meu GitHub](https://github.com/MariaIsabellyAndrade)
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -116,7 +81,7 @@ Participação no desenvolvimento de uma plataforma web vinculada a um projeto d
 
 </div>
 
----
+
 
 ## 📚 Formação e aprendizado
 
